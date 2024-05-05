@@ -1,5 +1,5 @@
 # Piano
-Built on C, this virtual Piano consists of a single octave and allows all users to play and compose their own songs, saved as a .txt file. 
+Built in C, this virtual Piano consists of a single octave and allows all users to play and compose their own songs and save it as a .txt file. 
 
 # How to Run?
 * Download the zip file provided in the repository.
